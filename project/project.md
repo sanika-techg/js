@@ -74,7 +74,7 @@ setInterval(function () {
 
 ```
 
-##project3
+##project4
 ```javascript
 
 let randomNumber = parseInt(Math.random() * 100 + 1);
